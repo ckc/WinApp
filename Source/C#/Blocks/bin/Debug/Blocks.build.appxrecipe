@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>W81</Machine>
+    <WindowsUser>a1</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>48e82f51-b62b-49ba-9549-de1dc1606818</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\Brainvita.exe">
+      <PackagePath>Brainvita.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\MailForWindowsStore.dll">
+      <PackagePath>MailForWindowsStore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Assets\Images\BigLiveTile1.jpg">
+      <PackagePath>Assets\Images\BigLiveTile1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Assets\Images\BigLiveTile2.jpg">
+      <PackagePath>Assets\Images\BigLiveTile2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Assets\Images\SmallLiveTile1.jpg">
+      <PackagePath>Assets\Images\SmallLiveTile1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Assets\Images\SmallLiveTile2.jpg">
+      <PackagePath>Assets\Images\SmallLiveTile2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\26_avatar_big.jpg">
+      <PackagePath>Images\26_avatar_big.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\backg.jpg">
+      <PackagePath>Images\backg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\creative.jpg">
+      <PackagePath>Images\creative.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\dafenqi.jpg">
+      <PackagePath>Images\dafenqi.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\Europe.jpg">
+      <PackagePath>Images\Europe.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\geography%28diqiu%29.jpg">
+      <PackagePath>Images\geography%28diqiu%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\monkey.jpg">
+      <PackagePath>Images\monkey.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\wildman.jpg">
+      <PackagePath>Images\wildman.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Assets\wideLogo.png">
+      <PackagePath>Assets\wideLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\About-01.png">
+      <PackagePath>Images\About-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\AboutHub-01.png">
+      <PackagePath>Images\AboutHub-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\diaoyudao.PNG">
+      <PackagePath>Images\diaoyudao.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\F1.PNG">
+      <PackagePath>Images\F1.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\fish-cartoon-clip-art-1556285.png">
+      <PackagePath>Images\fish-cartoon-clip-art-1556285.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\gaodeng\god%28150x150%29.scale-100.png">
+      <PackagePath>Images\gaodeng\god%28150x150%29.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\gaodeng\god%2830x30%29.scale-100.png">
+      <PackagePath>Images\gaodeng\god%2830x30%29.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\gaodeng\god%2830x30%29.scale-140.png">
+      <PackagePath>Images\gaodeng\god%2830x30%29.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\gaodeng\god%2830x30%29.scale-180.png">
+      <PackagePath>Images\gaodeng\god%2830x30%29.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\gaodeng\god%2842x42%29.png">
+      <PackagePath>Images\gaodeng\god%2842x42%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\gaodeng\god%2850x50%29.scale-100.png">
+      <PackagePath>Images\gaodeng\god%2850x50%29.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\gaodeng\god%2854x54%29.png">
+      <PackagePath>Images\gaodeng\god%2854x54%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\gaodeng\god%2870x70%29.scale-100.png">
+      <PackagePath>Images\gaodeng\god%2870x70%29.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\gaodeng\Goldengodp4.png">
+      <PackagePath>Images\gaodeng\Goldengodp4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\history%28dufu%29.png">
+      <PackagePath>Images\history%28dufu%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\Art\guohua.PNG">
+      <PackagePath>Images\LKphoto\Art\guohua.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\Art\huanjingyishu.PNG">
+      <PackagePath>Images\LKphoto\Art\huanjingyishu.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\Art\laiyinhe.PNG">
+      <PackagePath>Images\LKphoto\Art\laiyinhe.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\Art\marenyishu.PNG">
+      <PackagePath>Images\LKphoto\Art\marenyishu.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\Art\sumiao.PNG">
+      <PackagePath>Images\LKphoto\Art\sumiao.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\Art\xiandaiyishu.PNG">
+      <PackagePath>Images\LKphoto\Art\xiandaiyishu.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\Astronomy\heidong.PNG">
+      <PackagePath>Images\LKphoto\Astronomy\heidong.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\Astronomy\taikongqushui.PNG">
+      <PackagePath>Images\LKphoto\Astronomy\taikongqushui.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\Astronomy\taikongshuaya.PNG">
+      <PackagePath>Images\LKphoto\Astronomy\taikongshuaya.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\Astronomy\xingqiubijiao.PNG">
+      <PackagePath>Images\LKphoto\Astronomy\xingqiubijiao.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\creative life\shengqian100.PNG">
+      <PackagePath>Images\LKphoto\creative life\shengqian100.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\creative life\tuzi.PNG">
+      <PackagePath>Images\LKphoto\creative life\tuzi.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\creative life\xiaosuda.PNG">
+      <PackagePath>Images\LKphoto\creative life\xiaosuda.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\creative life\yagao.PNG">
+      <PackagePath>Images\LKphoto\creative life\yagao.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\creative life\zizhiaircondition.PNG">
+      <PackagePath>Images\LKphoto\creative life\zizhiaircondition.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\Geograhpy\diligaishu.PNG">
+      <PackagePath>Images\LKphoto\Geograhpy\diligaishu.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\Geograhpy\ershisijieqi.PNG">
+      <PackagePath>Images\LKphoto\Geograhpy\ershisijieqi.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\Geograhpy\europeclimate.PNG">
+      <PackagePath>Images\LKphoto\Geograhpy\europeclimate.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\Geograhpy\renkoujinzita.PNG">
+      <PackagePath>Images\LKphoto\Geograhpy\renkoujinzita.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\Geograhpy\zhongguodixing.PNG">
+      <PackagePath>Images\LKphoto\Geograhpy\zhongguodixing.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\history\adolf hitler.PNG">
+      <PackagePath>Images\LKphoto\history\adolf hitler.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\history\diaoyudao.PNG">
+      <PackagePath>Images\LKphoto\history\diaoyudao.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\history\gandi.PNG">
+      <PackagePath>Images\LKphoto\history\gandi.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\history\liangxiaoshihuigu.PNG">
+      <PackagePath>Images\LKphoto\history\liangxiaoshihuigu.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\history\sunzhongshan.PNG">
+      <PackagePath>Images\LKphoto\history\sunzhongshan.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\history\xueyue.PNG">
+      <PackagePath>Images\LKphoto\history\xueyue.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\maths\jisuanjichengshi.PNG">
+      <PackagePath>Images\LKphoto\maths\jisuanjichengshi.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\maths\PI.PNG">
+      <PackagePath>Images\LKphoto\maths\PI.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\maths\weijifen.PNG">
+      <PackagePath>Images\LKphoto\maths\weijifen.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\maths\yinshifenjie.PNG">
+      <PackagePath>Images\LKphoto\maths\yinshifenjie.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\sports\danche.PNG">
+      <PackagePath>Images\LKphoto\sports\danche.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\sports\paobu.PNG">
+      <PackagePath>Images\LKphoto\sports\paobu.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\sports\reshen.PNG">
+      <PackagePath>Images\LKphoto\sports\reshen.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\sports\youyong.PNG">
+      <PackagePath>Images\LKphoto\sports\youyong.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\Survival\qiusheng%28fengji%29.PNG">
+      <PackagePath>Images\LKphoto\Survival\qiusheng%28fengji%29.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\LKphoto\Survival\qiusheng%28shenghuo%29.PNG">
+      <PackagePath>Images\LKphoto\Survival\qiusheng%28shenghuo%29.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\sanjiaoneixin.PNG">
+      <PackagePath>Images\sanjiaoneixin.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\space.png">
+      <PackagePath>Images\space.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\Instruction-01.png">
+      <PackagePath>Images\Instruction-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\InstructionHub-01.png">
+      <PackagePath>Images\InstructionHub-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\MainLogo-01.png">
+      <PackagePath>Images\MainLogo-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\maths%28pi%29.png">
+      <PackagePath>Images\maths%28pi%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\Play-01.png">
+      <PackagePath>Images\Play-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\PlayHub-01.png">
+      <PackagePath>Images\PlayHub-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\Score-01.png">
+      <PackagePath>Images\Score-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\ScoreHub-01.png">
+      <PackagePath>Images\ScoreHub-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\Setting-01.png">
+      <PackagePath>Images\Setting-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\SettingHub-01.png">
+      <PackagePath>Images\SettingHub-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\sports.png">
+      <PackagePath>Images\sports.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\Images\frame1.gif">
+      <PackagePath>Images\frame1.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\RssReader\MainPage.xbf">
+      <PackagePath>RssReader\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\冷知識\冷知識2.xbf">
+      <PackagePath>冷知識\冷知識2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\冷知識\冷知識3.xbf">
+      <PackagePath>冷知識\冷知識3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\冷知識\冷知識4.xbf">
+      <PackagePath>冷知識\冷知識4.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\學術性\geography\GeographyPage.xbf">
+      <PackagePath>學術性\geography\GeographyPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\學術性\geography\GeographyPage2.xbf">
+      <PackagePath>學術性\geography\GeographyPage2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\學術性\history\HistoryPage.xbf">
+      <PackagePath>學術性\history\HistoryPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\學術性\history\HistoryPage2.xbf">
+      <PackagePath>學術性\history\HistoryPage2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\小知識\LKArt\LKArt.xbf">
+      <PackagePath>小知識\LKArt\LKArt.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\小知識\LKAstronomy\LKAstronomy.xbf">
+      <PackagePath>小知識\LKAstronomy\LKAstronomy.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\小知識\LKCreativelife\LKCreativelife.xbf">
+      <PackagePath>小知識\LKCreativelife\LKCreativelife.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\小知識\LKGeography\LKGeography.xbf">
+      <PackagePath>小知識\LKGeography\LKGeography.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\小知識\LKHistory\LKHistory.xbf">
+      <PackagePath>小知識\LKHistory\LKHistory.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\小知識\LKMaths\LKMaths.xbf">
+      <PackagePath>小知識\LKMaths\LKMaths.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\學術性\maths\MathsPage.xbf">
+      <PackagePath>學術性\maths\MathsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\學術性\maths\MathsPage2.xbf">
+      <PackagePath>學術性\maths\MathsPage2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\SettingsFlyouts\ContactUs.xbf">
+      <PackagePath>SettingsFlyouts\ContactUs.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\學術性\學術性.xbf">
+      <PackagePath>學術性\學術性.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\冷知識\冷知識.xbf">
+      <PackagePath>冷知識\冷知識.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\小知識\LKSports\LKSports.xbf">
+      <PackagePath>小知識\LKSports\LKSports.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\小知識\LKSurvival\LKSurvival.xbf">
+      <PackagePath>小知識\LKSurvival\LKSurvival.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\小知識\小知識.xbf">
+      <PackagePath>小知識\小知識.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\聯絡我們\聯絡我們.xbf">
+      <PackagePath>聯絡我們\聯絡我們.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\小游戲\小游戲.xbf">
+      <PackagePath>小游戲\小游戲.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\SettingsFlyouts\AboutUs.xbf">
+      <PackagePath>SettingsFlyouts\AboutUs.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\SettingsFlyouts\PrivacyPolicy.xbf">
+      <PackagePath>SettingsFlyouts\PrivacyPolicy.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\SettingsFlyouts\TermsAndConditions.xbf">
+      <PackagePath>SettingsFlyouts\TermsAndConditions.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\Brainvita.xr.xml">
+      <PackagePath>Brainvita.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a1\Desktop\_Blocks Template v.1.0.0.0\Source\C#\Blocks\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

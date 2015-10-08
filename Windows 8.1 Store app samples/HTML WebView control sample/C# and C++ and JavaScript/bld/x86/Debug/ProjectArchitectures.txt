@@ -1,0 +1,3 @@
+C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\Controls_WebView.jsproj;x86
+C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\StreamUriResolver\CPP\StreamUriResolverCPP.vcxproj;x86
+C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\StreamUriResolver\CS\StreamUriResolverCS.csproj;neutral

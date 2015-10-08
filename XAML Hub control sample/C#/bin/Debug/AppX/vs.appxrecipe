@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CKC</Machine>
+    <WindowsUser>JacKC</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>Microsoft.SDKSamples.HubControlV21.CS</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>01389AAB7F313CED2CCC97821EF5BA81D5E2F98D81560AA7105107CE14CFBE85</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Microsoft.SDKSamples.HubControlV21.CS_1.0.0.0_neutral__8wekyb3d8bbwe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Microsoft.SDKSamples.HubControlV21.CS_8wekyb3d8bbwe!SDKSample.App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Microsoft.SDKSamples.HubControlV21.CS</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-29T06:27:06.000</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\HubControl.exe">
+      <PackagePath>HubControl.exe</PackagePath>
+      <Modified>2015-08-05T17:34:57.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\circle_hero.jpg">
+      <PackagePath>Assets\circle_hero.jpg</PackagePath>
+      <Modified>2014-05-13T22:49:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\circle_image1.jpg">
+      <PackagePath>Assets\circle_image1.jpg</PackagePath>
+      <Modified>2014-05-13T22:49:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\circle_image2.jpg">
+      <PackagePath>Assets\circle_image2.jpg</PackagePath>
+      <Modified>2014-05-13T22:49:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\circle_image3.jpg">
+      <PackagePath>Assets\circle_image3.jpg</PackagePath>
+      <Modified>2014-05-13T22:49:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\circle_list1.jpg">
+      <PackagePath>Assets\circle_list1.jpg</PackagePath>
+      <Modified>2014-05-13T22:49:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\circle_list2.jpg">
+      <PackagePath>Assets\circle_list2.jpg</PackagePath>
+      <Modified>2014-05-13T22:49:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\circle_list3.jpg">
+      <PackagePath>Assets\circle_list3.jpg</PackagePath>
+      <Modified>2014-05-13T22:49:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\circle_list4.jpg">
+      <PackagePath>Assets\circle_list4.jpg</PackagePath>
+      <Modified>2014-05-13T22:49:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\circle_list5.jpg">
+      <PackagePath>Assets\circle_list5.jpg</PackagePath>
+      <Modified>2014-05-13T22:49:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\circle_list6.jpg">
+      <PackagePath>Assets\circle_list6.jpg</PackagePath>
+      <Modified>2014-05-13T22:49:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\cycle.mp4">
+      <PackagePath>Assets\cycle.mp4</PackagePath>
+      <Modified>2014-05-13T22:49:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\microsoft-sdk.png">
+      <PackagePath>Assets\microsoft-sdk.png</PackagePath>
+      <Modified>2014-05-13T22:49:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\placeholder-sdk.png">
+      <PackagePath>Assets\placeholder-sdk.png</PackagePath>
+      <Modified>2014-05-13T22:49:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\smallTile-sdk.png">
+      <PackagePath>Assets\smallTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-13T22:49:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\splash-sdk.png">
+      <PackagePath>Assets\splash-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-13T22:49:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\squareTile-sdk.png">
+      <PackagePath>Assets\squareTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-13T22:49:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\storeLogo-sdk.png">
+      <PackagePath>Assets\storeLogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-13T22:49:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\tile-sdk.png">
+      <PackagePath>Assets\tile-sdk.png</PackagePath>
+      <Modified>2014-05-13T22:49:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\windows-sdk.png">
+      <PackagePath>Assets\windows-sdk.png</PackagePath>
+      <Modified>2014-05-13T22:49:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-07-29T06:27:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\VerticalHubPage.xbf">
+      <PackagePath>VerticalHubPage.xbf</PackagePath>
+      <Modified>2015-07-29T06:27:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\HubWithSezoPage.xbf">
+      <PackagePath>HubWithSezoPage.xbf</PackagePath>
+      <Modified>2015-07-29T06:27:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\VideosPage.xbf">
+      <PackagePath>VideosPage.xbf</PackagePath>
+      <Modified>2015-07-29T06:27:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\ImagesPage.xbf">
+      <PackagePath>ImagesPage.xbf</PackagePath>
+      <Modified>2015-07-29T06:27:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\HubPageHeadersInteractive.xbf">
+      <PackagePath>HubPageHeadersInteractive.xbf</PackagePath>
+      <Modified>2015-07-29T06:27:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\HubPageWithHeroImage.xbf">
+      <PackagePath>HubPageWithHeroImage.xbf</PackagePath>
+      <Modified>2015-07-29T06:27:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+      <Modified>2015-07-29T06:32:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\Scenario5.xbf">
+      <PackagePath>Scenario5.xbf</PackagePath>
+      <Modified>2015-07-29T06:27:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\Scenario4.xbf">
+      <PackagePath>Scenario4.xbf</PackagePath>
+      <Modified>2015-07-29T06:27:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\Scenario3.xbf">
+      <PackagePath>Scenario3.xbf</PackagePath>
+      <Modified>2015-07-29T06:27:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\Scenario2.xbf">
+      <PackagePath>Scenario2.xbf</PackagePath>
+      <Modified>2015-07-29T06:27:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\Scenario1.xbf">
+      <PackagePath>Scenario1.xbf</PackagePath>
+      <Modified>2015-07-29T06:27:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-07-29T06:27:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2015-07-29T06:27:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\Sample-Utils\SampleTemplateStyles.xbf">
+      <PackagePath>Sample-Utils\SampleTemplateStyles.xbf</PackagePath>
+      <Modified>2015-07-29T06:27:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\HubControl.xr.xml">
+      <PackagePath>HubControl.xr.xml</PackagePath>
+      <Modified>2015-07-29T06:27:01.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-07-29T06:27:05.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,71 @@
+﻿
+.instructionPage .fullDivInstruction {
+    width: 100%;
+    height: 100%;
+    overflow-x: auto;
+}
+
+    .instructionPage .fullDivInstruction .mainDivInstruction {
+        width: 1150px;
+        height: 526px;
+        margin-left: 120px;
+        margin-top: 30px;
+    }
+
+        .instructionPage .fullDivInstruction .mainDivInstruction .Instruction1 {
+            width: 207px;
+            height: 415px;
+            background-image: url("/images/assets/Instruction-01.png");
+            float: left;
+        }
+
+        .instructionPage .fullDivInstruction .mainDivInstruction .Instruction2 {
+            width: 875px;
+            height: 415px;
+            background-color: #0caabf;
+            float: left;
+            margin-left: 20px;
+        }
+
+.overlayInstruction {
+    width: 207px;
+    height: 50px;
+    text-align: center;
+    background-color: #39271d;
+    margin-top: 365px;
+    color: white;
+    font-size: 20pt;
+}
+
+
+.fullDivInstruction {
+    display: block;
+}
+
+#snapViewInstuct {
+    display: none;
+    margin-left: 20px;
+    margin-top: 70%;
+    height: 100%;
+    width: 100%;
+    font-size: 15pt;
+    font-weight: 600;
+}
+
+
+@media screen and (-ms-view-state: snapped) {
+    .homepage section[role=main] {
+        margin-left: 20px;
+    }
+
+    .fullDivInstruction {
+        display: none;
+    }
+     .subTitle {
+         display: none;
+    }
+
+    #snapViewInstuct {
+        display: block;
+    }
+}

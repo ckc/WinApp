@@ -1,0 +1,70 @@
+﻿
+.settingsPage .fullDivSettings {
+    width: 100%;
+    height: 100%;
+    overflow-x: auto;
+}
+
+    .settingsPage .fullDivSettings .mainDivSettings {
+        width: 1150px;
+        height: 526px;
+        margin-left: 120px;
+        margin-top: 30px;
+    }
+
+        .settingsPage .fullDivSettings .mainDivSettings .Settings1 {
+            width: 207px;
+            height: 415px;
+            background-image: url("/images/assets/Setting-01.png");
+            float: left;
+        }
+
+        .settingsPage .fullDivSettings .mainDivSettings .Settings2 {
+            width: 875px;
+            height: 415px;
+            background-color: #b43c96;
+            float: left;
+            margin-left: 20px;
+        }
+
+.overlaySettings {
+    width: 207px;
+    height: 50px;
+    text-align: center;
+    background-color: #39271d;
+    margin-top: 365px;
+    color: white;
+    font-size: 20pt;
+}
+
+
+.fullDivSettings {
+    display: block;
+}
+
+#snapViewSettings {
+    display: none;
+    margin-left: 20px;
+    margin-top: 70%;
+    height: 100%;
+    width: 100%;
+    font-size: 15pt;
+    font-weight: 600;
+}
+
+
+@media screen and (-ms-view-state: snapped) {
+    .homepage section[role=main] {
+        margin-left: 20px;
+    }
+
+    .fullDivSettings {
+        display: none;
+    }
+     .subTitle {
+         display: none;
+    }
+    #snapViewSettings {
+        display: block;
+    }
+}

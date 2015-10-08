@@ -1,0 +1,150 @@
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\bin\Debug\Assets\microsoft-sdk.png
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\bin\Debug\Assets\placeholder-sdk.png
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\bin\Debug\Assets\smallTile-sdk.png
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\bin\Debug\Assets\splash-sdk.png
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\bin\Debug\Assets\squareTile-sdk.png
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\bin\Debug\Assets\storeLogo-sdk.png
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\bin\Debug\Assets\tile-sdk.png
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\bin\Debug\Assets\windows-sdk.png
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\bin\Debug\App.xbf
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\bin\Debug\Scenario4.xbf
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\bin\Debug\Scenario3.xbf
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\bin\Debug\Scenario2.xbf
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\bin\Debug\Scenario1.xbf
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\bin\Debug\Scenario5.xbf
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\bin\Debug\MainPage.xbf
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\bin\Debug\Common\StandardStyles.xbf
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\bin\Debug\Sample-Utils\SampleTemplateStyles.xbf
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\bin\Debug\TextDisplay.xr.xml
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\bin\Debug\TextDisplay.exe
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\bin\Debug\TextDisplay.pdb
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\bin\Debug\resources.pri
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\bin\Debug\AppxManifest.xml
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\bin\Debug\TextDisplay.build.appxrecipe
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\App.g.i.cs
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\App.g.cs
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Scenario4.g.i.cs
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Scenario4.g.cs
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Scenario3.g.i.cs
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Scenario3.g.cs
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Scenario2.g.i.cs
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Scenario2.g.cs
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Scenario1.g.i.cs
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Scenario1.g.cs
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Scenario5.g.i.cs
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Scenario5.g.cs
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\MainPage.g.i.cs
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\MainPage.g.cs
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Sample-Utils\SampleTemplateStyles.g.i.cs
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Sample-Utils\SampleTemplateStyles.g.cs
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\App.xaml
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Scenario4.xaml
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Scenario3.xaml
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Scenario2.xaml
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Scenario1.xaml
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Scenario5.xaml
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\MainPage.xaml
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Common\StandardStyles.xaml
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Sample-Utils\SampleTemplateStyles.xaml
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\App.xbf
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Scenario4.xbf
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Scenario3.xbf
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Scenario2.xbf
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Scenario1.xbf
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Scenario5.xbf
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\MainPage.xbf
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Common\StandardStyles.xbf
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\Sample-Utils\SampleTemplateStyles.xbf
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\XamlSaveStateFile.xml
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\TextDisplay.exe
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\TextDisplay.pdb
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\priconfig.xml
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\priconfig.xml.intermediate
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\layout.resfiles
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\layout.resfiles.intermediate
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\resources.resfiles
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\resources.resfiles.intermediate
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\pri.resfiles
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\pri.resfiles.intermediate
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\qualifiers.txt
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\qualifiers.txt.intermediate
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\a1\Downloads\Windows 8.1 Store app samples\XAML text display sample\C#\obj\Debug\ProjectArchitectures.txt
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\bin\Debug\Assets\microsoft-sdk.png
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\bin\Debug\Assets\placeholder-sdk.png
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\bin\Debug\Assets\smallTile-sdk.png
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\bin\Debug\Assets\splash-sdk.png
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\bin\Debug\Assets\squareTile-sdk.png
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\bin\Debug\Assets\storeLogo-sdk.png
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\bin\Debug\Assets\tile-sdk.png
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\bin\Debug\Assets\windows-sdk.png
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\bin\Debug\App.xbf
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\bin\Debug\Scenario4.xbf
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\bin\Debug\Scenario3.xbf
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\bin\Debug\Scenario2.xbf
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\bin\Debug\Scenario1.xbf
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\bin\Debug\Scenario5.xbf
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\bin\Debug\MainPage.xbf
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\bin\Debug\Common\StandardStyles.xbf
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\bin\Debug\Sample-Utils\SampleTemplateStyles.xbf
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\bin\Debug\TextDisplay.xr.xml
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\bin\Debug\TextDisplay.exe
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\bin\Debug\TextDisplay.pdb
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\bin\Debug\resources.pri
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\bin\Debug\AppxManifest.xml
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\bin\Debug\TextDisplay.build.appxrecipe
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\App.g.i.cs
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\App.g.cs
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Scenario4.g.i.cs
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Scenario4.g.cs
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Scenario3.g.i.cs
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Scenario3.g.cs
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Scenario2.g.i.cs
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Scenario2.g.cs
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Scenario1.g.i.cs
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Scenario1.g.cs
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Scenario5.g.i.cs
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Scenario5.g.cs
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\MainPage.g.i.cs
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\MainPage.g.cs
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Sample-Utils\SampleTemplateStyles.g.i.cs
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Sample-Utils\SampleTemplateStyles.g.cs
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\App.xaml
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Scenario4.xaml
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Scenario3.xaml
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Scenario2.xaml
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Scenario1.xaml
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Scenario5.xaml
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\MainPage.xaml
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Common\StandardStyles.xaml
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Sample-Utils\SampleTemplateStyles.xaml
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\App.xbf
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Scenario4.xbf
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Scenario3.xbf
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Scenario2.xbf
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Scenario1.xbf
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Scenario5.xbf
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\MainPage.xbf
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Common\StandardStyles.xbf
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\Sample-Utils\SampleTemplateStyles.xbf
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\XamlSaveStateFile.xml
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\TextDisplay.exe
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\TextDisplay.pdb
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\priconfig.xml
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\priconfig.xml.intermediate
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\layout.resfiles
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\layout.resfiles.intermediate
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\resources.resfiles
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\resources.resfiles.intermediate
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\pri.resfiles
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\pri.resfiles.intermediate
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\qualifiers.txt
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\qualifiers.txt.intermediate
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\JacKC\Dropbox\_WinApp\XAML text display sample\C#\obj\Debug\ProjectArchitectures.txt

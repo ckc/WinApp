@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CKC</Machine>
+    <WindowsUser>JacKC</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>Microsoft.SDKSamples.ControlsWebView.JS</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\bld\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\Debug\StreamUriResolverCPP\SDK.WebViewSampleCpp.winmd">
+      <PackagePath>SDK.WebViewSampleCpp.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\StreamUriResolver\CS\bin\Debug\SDK.WebViewSampleCS.winmd">
+      <PackagePath>SDK.WebViewSampleCS.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\Debug\StreamUriResolverCPP\StreamUriResolverCPP.dll">
+      <PackagePath>StreamUriResolverCPP.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\css\1_NavToUrl.css">
+      <PackagePath>css\1_NavToUrl.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\css\2_NavToString.css">
+      <PackagePath>css\2_NavToString.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\css\3_NavToState.css">
+      <PackagePath>css\3_NavToState.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\css\4_NavToStream.css">
+      <PackagePath>css\4_NavToStream.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\css\5_InvokeScript.css">
+      <PackagePath>css\5_InvokeScript.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\css\6_ScriptNotify.css">
+      <PackagePath>css\6_ScriptNotify.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\css\7_SupportShare.css">
+      <PackagePath>css\7_SupportShare.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\sample-utils\sample-utils.css">
+      <PackagePath>sample-utils\sample-utils.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\html\1_NavToUrl.html">
+      <PackagePath>html\1_NavToUrl.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\html\2_NavToString.html">
+      <PackagePath>html\2_NavToString.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\html\3_NavToState.html">
+      <PackagePath>html\3_NavToState.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\html\4_NavToStream.html">
+      <PackagePath>html\4_NavToStream.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\html\5_InvokeScript.html">
+      <PackagePath>html\5_InvokeScript.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\html\6_ScriptNotify.html">
+      <PackagePath>html\6_ScriptNotify.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\html\7_SupportShare.html">
+      <PackagePath>html\7_SupportShare.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\html\script_example.html">
+      <PackagePath>html\script_example.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\html\scriptnotify_example.html">
+      <PackagePath>html\scriptnotify_example.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\html\simple_example.html">
+      <PackagePath>html\simple_example.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\sample-utils\footer.html">
+      <PackagePath>sample-utils\footer.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\sample-utils\header.html">
+      <PackagePath>sample-utils\header.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\sample-utils\scenario-select.html">
+      <PackagePath>sample-utils\scenario-select.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\images\microsoft-sdk.png">
+      <PackagePath>images\microsoft-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\images\placeholder-sdk.png">
+      <PackagePath>images\placeholder-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\images\smallTile-sdk.png">
+      <PackagePath>images\smallTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\images\splash-sdk.png">
+      <PackagePath>images\splash-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\images\squareTile-sdk.png">
+      <PackagePath>images\squareTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\images\storeLogo-sdk.png">
+      <PackagePath>images\storeLogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\images\tile-sdk.png">
+      <PackagePath>images\tile-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\images\windows-sdk.png">
+      <PackagePath>images\windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\js\1_NavToUrl.js">
+      <PackagePath>js\1_NavToUrl.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\js\2_NavToString.js">
+      <PackagePath>js\2_NavToString.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\js\3_NavToState.js">
+      <PackagePath>js\3_NavToState.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\js\4_NavToStream.js">
+      <PackagePath>js\4_NavToStream.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\js\5_InvokeScript.js">
+      <PackagePath>js\5_InvokeScript.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\js\6_ScriptNotify.js">
+      <PackagePath>js\6_ScriptNotify.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\js\7_SupportShare.js">
+      <PackagePath>js\7_SupportShare.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\sample-utils\sample-utils.js">
+      <PackagePath>sample-utils\sample-utils.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\Windows 8.1 Store app samples\HTML WebView control sample\C# and C++ and JavaScript\bin\x86\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

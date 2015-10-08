@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CKC</Machine>
+    <WindowsUser>JacKC</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>Microsoft.SDKSamples.HubControlV21.CS</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\HubControl.exe">
+      <PackagePath>HubControl.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\circle_hero.jpg">
+      <PackagePath>Assets\circle_hero.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\circle_image1.jpg">
+      <PackagePath>Assets\circle_image1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\circle_image2.jpg">
+      <PackagePath>Assets\circle_image2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\circle_image3.jpg">
+      <PackagePath>Assets\circle_image3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\circle_list1.jpg">
+      <PackagePath>Assets\circle_list1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\circle_list2.jpg">
+      <PackagePath>Assets\circle_list2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\circle_list3.jpg">
+      <PackagePath>Assets\circle_list3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\circle_list4.jpg">
+      <PackagePath>Assets\circle_list4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\circle_list5.jpg">
+      <PackagePath>Assets\circle_list5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\circle_list6.jpg">
+      <PackagePath>Assets\circle_list6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\cycle.mp4">
+      <PackagePath>Assets\cycle.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\microsoft-sdk.png">
+      <PackagePath>Assets\microsoft-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\placeholder-sdk.png">
+      <PackagePath>Assets\placeholder-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\smallTile-sdk.png">
+      <PackagePath>Assets\smallTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\splash-sdk.png">
+      <PackagePath>Assets\splash-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\squareTile-sdk.png">
+      <PackagePath>Assets\squareTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\storeLogo-sdk.png">
+      <PackagePath>Assets\storeLogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\tile-sdk.png">
+      <PackagePath>Assets\tile-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\Assets\windows-sdk.png">
+      <PackagePath>Assets\windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\VerticalHubPage.xbf">
+      <PackagePath>VerticalHubPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\HubWithSezoPage.xbf">
+      <PackagePath>HubWithSezoPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\VideosPage.xbf">
+      <PackagePath>VideosPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\ImagesPage.xbf">
+      <PackagePath>ImagesPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\HubPageHeadersInteractive.xbf">
+      <PackagePath>HubPageHeadersInteractive.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\HubPageWithHeroImage.xbf">
+      <PackagePath>HubPageWithHeroImage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\Scenario5.xbf">
+      <PackagePath>Scenario5.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\Scenario4.xbf">
+      <PackagePath>Scenario4.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\Scenario3.xbf">
+      <PackagePath>Scenario3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\Scenario2.xbf">
+      <PackagePath>Scenario2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\Scenario1.xbf">
+      <PackagePath>Scenario1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\Sample-Utils\SampleTemplateStyles.xbf">
+      <PackagePath>Sample-Utils\SampleTemplateStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\HubControl.xr.xml">
+      <PackagePath>HubControl.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JacKC\Dropbox\_WinApp\XAML Hub control sample\C#\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

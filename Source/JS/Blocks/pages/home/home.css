@@ -1,0 +1,104 @@
+﻿.homepage section[role=main] {
+    /*margin-left: 120px;*/
+}
+
+@media screen and (-ms-view-state: portrait) {
+    .homepage section[role=main] {
+        margin-left: 100px;
+    }
+}
+
+
+.homepage .divFullHome {
+    width: 100%;
+    height: 100%;
+    overflow-x: auto;
+}
+
+    .homepage .divFullHome .divMainHome {
+        width: 1125PX;
+        height: 500PX;
+        margin-top: 30px;
+        margin-left: 130px;
+    }
+
+        .homepage .divFullHome .divMainHome .About {
+            width: 207px;
+            height: 268px;
+            background-image: url("/images/assets/AboutHub-01.png");
+            float: left;
+        }
+
+        .homepage .divFullHome .divMainHome .Instruction {
+            width: 207px;
+            height: 268px;
+            background-image: url("/images/assets/InstructionHub-01.png");
+            float: left;
+            margin-left: 20px;
+        }
+
+        .homepage .divFullHome .divMainHome .Play {
+            width: 207px;
+            height: 268px;
+            background-image: url("/images/assets/PlayHub-01.png");
+            float: left;
+            margin-left: 20px;
+        }
+
+        .homepage .divFullHome .divMainHome .Settings {
+            width: 207px;
+            height: 268px;
+            background-image: url("/images/assets/SettingHub-01.png");
+            float: left;
+            margin-left: 20px;
+        }
+
+        .homepage .divFullHome .divMainHome .Score {
+            width: 207px;
+            height: 268px;
+            background-image: url("/images/assets/ScoreHub-01.png");
+            float: left;
+            margin-left: 20px;
+        }
+
+.overlay {
+    width: 207px;
+    height: 50px;
+    text-align: center;
+    background-color: #39271d;
+    margin-top: 220px;
+    color: white;
+    font-size: 20pt;
+}
+
+
+.divFullHome {
+    display: block;
+}
+
+#snapView {
+    display: none;
+    margin-left: 10px;
+    margin-top: 70%;
+    height: 100%;
+    width: 100%;
+    font-size: 15pt;
+    font-weight: 600;
+}
+
+@media screen and (-ms-view-state: snapped) {
+    .homepage section[role=main] {
+        margin-left: 20px;
+    }
+
+    .divFullHome {
+        display: none;
+    }
+     .subTitle {
+         display: none;
+    }
+
+    #snapView {
+        display: block;
+    }
+}

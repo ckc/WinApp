@@ -1,0 +1,72 @@
+﻿
+.scorePage .fullDivScore {
+    width: 100%;
+    height: 100%;
+    overflow-x: auto;
+}
+
+    .scorePage .fullDivScore .mainDivScore {
+        width: 1150px;
+        height: 526px;
+        margin-left: 120px;
+        margin-top: 30px;
+    }
+
+        .scorePage .fullDivScore .mainDivScore .Score1 {
+            width: 207px;
+            height: 415px;
+            background-image: url("/images/assets/Score-01.png");
+            float: left;
+        }
+
+        .scorePage .fullDivScore .mainDivScore .Score2 {
+            width: 875px;
+            height: 415px;
+            background-color: #ef3e42;
+            float: left;
+            margin-left: 20px;
+        }
+
+.overlayScore {
+    width: 207px;
+    height: 50px;
+    text-align: center;
+    background-color: #39271d;
+    margin-top: 365px;
+    color: white;
+    font-size: 20pt;
+}
+
+
+.fullDivScore {
+    display: block;
+}
+
+#snapViewScore {
+    display: none;
+    margin-left: 20px;
+    margin-top: 70%;
+    height: 100%;
+    width: 100%;
+    font-size: 15pt;
+    font-weight: 600;
+}
+
+
+@media screen and (-ms-view-state: snapped) {
+    .homepage section[role=main] {
+        margin-left: 20px;
+    }
+
+    .fullDivScore {
+        display: none;
+    }
+     .subTitle {
+         display: none;
+    }
+
+    #snapViewScore {
+        display: block;
+    }
+}
+

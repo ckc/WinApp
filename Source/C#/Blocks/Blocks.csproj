@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E8C5A177-53BD-4435-BDC2-9AC94734C40D}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Brainvita</RootNamespace>
+    <AssemblyName>Brainvita</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PackageCertificateKeyFile>Blocks_TemporaryKey.pfx</PackageCertificateKeyFile>
+    <AppxAutoIncrementPackageRevision>False</AppxAutoIncrementPackageRevision>
+    <PackageCertificateThumbprint>88804254E67E0A3F549234A53FA2B63C62F42783</PackageCertificateThumbprint>
+    <TargetPlatformVersion>8.1</TargetPlatformVersion>
+    <MinimumVisualStudioVersion>12</MinimumVisualStudioVersion>
+    <TargetFrameworkVersion />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+    <None Include="Blocks_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="awai.cs" />
+    <Compile Include="Common\NavigationHelper.cs" />
+    <Compile Include="Common\ObservableDictionary.cs" />
+    <Compile Include="Common\RelayCommand.cs" />
+    <Compile Include="RssReader\MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="冷知識\冷知識2.xaml.cs">
+      <DependentUpon>冷知識2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="冷知識\冷知識3.xaml.cs">
+      <DependentUpon>冷知識3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="冷知識\冷知識4.xaml.cs">
+      <DependentUpon>冷知識4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="學術性\geography\GeographyPage.xaml.cs">
+      <DependentUpon>GeographyPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="學術性\geography\GeographyPage2.xaml.cs">
+      <DependentUpon>GeographyPage2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="學術性\history\HistoryPage.xaml.cs">
+      <DependentUpon>HistoryPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="學術性\history\HistoryPage2.xaml.cs">
+      <DependentUpon>HistoryPage2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="學術性\history\Model\DemoItem.cs" />
+    <Compile Include="學術性\history\ViewModel\MainViewModel.cs" />
+    <Compile Include="學術性\maths\txt.cs" />
+    <Compile Include="小知識\LKArt\LKArt.xaml.cs">
+      <DependentUpon>LKArt.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="小知識\LKAstronomy\LKAstronomy.xaml.cs">
+      <DependentUpon>LKAstronomy.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="小知識\LKCreativelife\LKCreativelife.xaml.cs">
+      <DependentUpon>LKCreativelife.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="小知識\LKGeography\LKGeography.xaml.cs">
+      <DependentUpon>LKGeography.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="小知識\LKHistory\LKHistory.xaml.cs">
+      <DependentUpon>LKHistory.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="小知識\LKMaths\LKMaths.xaml.cs">
+      <DependentUpon>LKMaths.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="學術性\maths\MathsPage.xaml.cs">
+      <DependentUpon>MathsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="學術性\maths\MathsPage2.xaml.cs">
+      <DependentUpon>MathsPage2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Services\InternetConnection.cs" />
+    <Compile Include="學術性\學術性.xaml.cs">
+      <DependentUpon>學術性.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Common\BindableBase.cs" />
+    <Compile Include="Common\BooleanNegationConverter.cs" />
+    <Compile Include="Common\BooleanToVisibilityConverter.cs" />
+    <Compile Include="Common\LayoutAwarePage.cs" />
+    <Compile Include="Common\RichTextColumns.cs" />
+    <Compile Include="Common\SuspensionManager.cs" />
+    <Compile Include="EnableLiveTile\Common.cs" />
+    <Compile Include="EnableLiveTile\ContentInterfaces.cs" />
+    <Compile Include="EnableLiveTile\CreateLiveTile.cs" />
+    <Compile Include="EnableLiveTile\TileContent.cs" />
+    <Compile Include="HubPage.xaml.cs">
+      <DependentUpon>HubPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="冷知識\冷知識.xaml.cs">
+      <DependentUpon>冷知識.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="小知識\LKSports\LKSports.xaml.cs">
+      <DependentUpon>LKSports.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="小知識\LKSurvival\LKSurvival.xaml.cs">
+      <DependentUpon>LKSurvival.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="小知識\小知識.xaml.cs">
+      <DependentUpon>小知識.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="聯絡我們\聯絡我們.xaml.cs">
+      <DependentUpon>聯絡我們.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="小游戲\小游戲.xaml.cs">
+      <DependentUpon>小游戲.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsFlyouts\AboutUs.xaml.cs">
+      <DependentUpon>AboutUs.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsFlyouts\ContactUs.xaml.cs">
+      <DependentUpon>ContactUs.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsFlyouts\PrivacyPolicy.xaml.cs">
+      <DependentUpon>PrivacyPolicy.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsFlyouts\TermsAndConditions.xaml.cs">
+      <DependentUpon>TermsAndConditions.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\Images\BigLiveTile1.jpg" />
+    <Content Include="Assets\Images\BigLiveTile2.jpg" />
+    <Content Include="Assets\Images\SmallLiveTile1.jpg" />
+    <Content Include="Assets\Images\SmallLiveTile2.jpg" />
+    <Content Include="Assets\Logo.scale-100.png" />
+    <Content Include="Assets\Logo.scale-140.png" />
+    <Content Include="Assets\SmallLogo.scale-100.png" />
+    <Content Include="Assets\SplashScreen.scale-100.png" />
+    <Content Include="Assets\StoreLogo.scale-100.png" />
+    <Content Include="Assets\wideLogo.png" />
+    <Content Include="Common\ReadMe.txt" />
+    <Content Include="Images\26_avatar_big.jpg" />
+    <Content Include="Images\About-01.png" />
+    <Content Include="Images\AboutHub-01.png" />
+    <Content Include="Images\backg.jpg" />
+    <Content Include="Images\creative.jpg" />
+    <Content Include="Images\dafenqi.jpg" />
+    <Content Include="Images\diaoyudao.PNG" />
+    <Content Include="Images\Europe.jpg" />
+    <Content Include="Images\F1.PNG" />
+    <Content Include="Images\fish-cartoon-clip-art-1556285.png" />
+    <Content Include="Images\frame1.gif" />
+    <Content Include="Images\gaodeng\god%28150x150%29.scale-100.png" />
+    <Content Include="Images\gaodeng\god%2830x30%29.scale-100.png" />
+    <Content Include="Images\gaodeng\god%2830x30%29.scale-140.png" />
+    <Content Include="Images\gaodeng\god%2830x30%29.scale-180.png" />
+    <Content Include="Images\gaodeng\god%2842x42%29.png" />
+    <Content Include="Images\gaodeng\god%2850x50%29.scale-100.png" />
+    <Content Include="Images\gaodeng\god%2854x54%29.png" />
+    <Content Include="Images\gaodeng\god%2870x70%29.scale-100.png" />
+    <Content Include="Images\geography%28diqiu%29.jpg" />
+    <Content Include="Images\gaodeng\Goldengodp4.png" />
+    <Content Include="Images\history%28dufu%29.png" />
+    <Content Include="Images\LKphoto\Art\guohua.PNG" />
+    <Content Include="Images\LKphoto\Art\huanjingyishu.PNG" />
+    <Content Include="Images\LKphoto\Art\laiyinhe.PNG" />
+    <Content Include="Images\LKphoto\Art\marenyishu.PNG" />
+    <Content Include="Images\LKphoto\Art\sumiao.PNG" />
+    <Content Include="Images\LKphoto\Art\xiandaiyishu.PNG" />
+    <Content Include="Images\LKphoto\Astronomy\heidong.PNG" />
+    <Content Include="Images\LKphoto\Astronomy\taikongqushui.PNG" />
+    <Content Include="Images\LKphoto\Astronomy\taikongshuaya.PNG" />
+    <Content Include="Images\LKphoto\Astronomy\xingqiubijiao.PNG" />
+    <Content Include="Images\LKphoto\creative life\shengqian100.PNG" />
+    <Content Include="Images\LKphoto\creative life\tuzi.PNG" />
+    <Content Include="Images\LKphoto\creative life\xiaosuda.PNG" />
+    <Content Include="Images\LKphoto\creative life\yagao.PNG" />
+    <Content Include="Images\LKphoto\creative life\zizhiaircondition.PNG" />
+    <Content Include="Images\LKphoto\Geograhpy\diligaishu.PNG" />
+    <Content Include="Images\LKphoto\Geograhpy\ershisijieqi.PNG" />
+    <Content Include="Images\LKphoto\Geograhpy\europeclimate.PNG" />
+    <Content Include="Images\LKphoto\Geograhpy\renkoujinzita.PNG" />
+    <Content Include="Images\LKphoto\Geograhpy\zhongguodixing.PNG" />
+    <Content Include="Images\LKphoto\history\adolf hitler.PNG" />
+    <Content Include="Images\LKphoto\history\diaoyudao.PNG" />
+    <Content Include="Images\LKphoto\history\gandi.PNG" />
+    <Content Include="Images\LKphoto\history\liangxiaoshihuigu.PNG" />
+    <Content Include="Images\LKphoto\history\sunzhongshan.PNG" />
+    <Content Include="Images\LKphoto\history\xueyue.PNG" />
+    <Content Include="Images\LKphoto\maths\jisuanjichengshi.PNG" />
+    <Content Include="Images\LKphoto\maths\PI.PNG" />
+    <Content Include="Images\LKphoto\maths\weijifen.PNG" />
+    <Content Include="Images\LKphoto\maths\yinshifenjie.PNG" />
+    <Content Include="Images\LKphoto\sports\danche.PNG" />
+    <Content Include="Images\LKphoto\sports\paobu.PNG" />
+    <Content Include="Images\LKphoto\sports\reshen.PNG" />
+    <Content Include="Images\LKphoto\sports\youyong.PNG" />
+    <Content Include="Images\LKphoto\Survival\qiusheng%28fengji%29.PNG" />
+    <Content Include="Images\LKphoto\Survival\qiusheng%28shenghuo%29.PNG" />
+    <Content Include="Images\monkey.jpg" />
+    <Content Include="Images\sanjiaoneixin.PNG" />
+    <Content Include="Images\space.png" />
+    <Content Include="Images\Instruction-01.png" />
+    <Content Include="Images\InstructionHub-01.png" />
+    <Content Include="Images\MainLogo-01.png" />
+    <Content Include="Images\maths%28pi%29.png" />
+    <Content Include="Images\Play-01.png" />
+    <Content Include="Images\PlayHub-01.png" />
+    <Content Include="Images\Score-01.png" />
+    <Content Include="Images\ScoreHub-01.png" />
+    <Content Include="Images\Setting-01.png" />
+    <Content Include="Images\SettingHub-01.png" />
+    <Content Include="Images\sports.png" />
+    <Content Include="Images\wildman.jpg" />
+    <Page Include="RssReader\MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="冷知識\冷知識2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="冷知識\冷知識3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="冷知識\冷知識4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="學術性\geography\GeographyPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="學術性\geography\GeographyPage2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="學術性\history\HistoryPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="學術性\history\HistoryPage2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="小知識\LKArt\LKArt.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="小知識\LKAstronomy\LKAstronomy.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="小知識\LKCreativelife\LKCreativelife.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="小知識\LKGeography\LKGeography.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="小知識\LKHistory\LKHistory.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="小知識\LKMaths\LKMaths.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="學術性\maths\MathsPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="學術性\maths\MathsPage2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SettingsFlyouts\ContactUs.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="學術性\學術性.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Common\StandardStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="HubPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="冷知識\冷知識.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="小知識\LKSports\LKSports.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="小知識\LKSurvival\LKSurvival.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="小知識\小知識.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="聯絡我們\聯絡我們.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="小游戲\小游戲.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SettingsFlyouts\AboutUs.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="SettingsFlyouts\PrivacyPolicy.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="SettingsFlyouts\TermsAndConditions.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="MailForWindowsStore">
+      <HintPath>..\..\..\..\MailForWindowsStore.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0' ">
+    <VisualStudioVersion>12.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
